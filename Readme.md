@@ -10,7 +10,6 @@ All builds of this game for backup
 - **5 Player Gameplay**: Battle it out with up to 5 players, each with a distinct tank.
 - **Unique Tanks**: Choose from 5 different tanks, each with its own strengths and abilities.
 - **Multiple Modes**:
-  - **Local Play**: Play on a single device with friends.
   - **Co-op Mode**: Team up and strategize with friends to take on challenges.
   - **Multiplayer Mode**: Compete against players from around the world.
 - **Amazing Obstacles**: Navigate through a variety of challenging obstacles that add depth and strategy to the game.
