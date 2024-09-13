@@ -2,7 +2,7 @@ All builds of this game for backup
 
 # Sketch_battle.io (UNDER DEVELOPMENT)
 
-<img align="center" src="Images/Splash Screen.png">
+<img align="center" src="Images/Icon.png">
 **Sketch_battle.io** is a thrilling 2D top-down multiplayer game built using the Unity Engine and Unity Netcode for GameObjects (NGO). Engage in intense tank battles with up to 5 players, each controlling a unique tank. Whether you play locally, cooperatively with friends, or compete against others online, Sketch_battle.io offers exciting gameplay with amazing obstacles and pickups that will keep you on the edge of your seat!
 
 ## Features
